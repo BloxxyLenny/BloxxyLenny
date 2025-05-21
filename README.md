@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bloxxy! Your moderately funny Polish coder. </h2>
+<h2 align="left">Hi, my name is Bloxxy! Your moderately funny Polish coder! </h2>
 
 ###
 
